@@ -74,7 +74,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/h4xixe/h4xixe/output/snake.svg" alt="Snake animation" />
-
-###
