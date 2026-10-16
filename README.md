@@ -53,18 +53,6 @@
 
 ###
 
-<h3 align="left">Recently Played</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/miguelgamer2007">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=miguelgamer2007&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">My Github Stats</h3>
 
 ###
